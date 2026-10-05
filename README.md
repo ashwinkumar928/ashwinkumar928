@@ -1,151 +1,69 @@
+<!-- ==================== INTRO ==================== -->
+
 <h1 align="center">Hi 👋, I'm Ashwin Kumar</h1>
 
 <h3 align="center">
-Computer Science Engineer | Full Stack Developer | Problem Solver
+B.Tech CSE Student | Full Stack Developer | Problem Solver
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashwin-kumar-7b4632344/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://ashwin03-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel"/>
   </a>
 
   <a href="https://karviam.in">
-    <img src="https://img.shields.io/badge/Karviam-Live-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Karviam-Live-22c55e?style=flat"/>
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering at **KIIT University**
-- 💻 Interested in **Full Stack Web Development**
-- 🚀 Building **Karviam**, a local short-term work marketplace
-- 🤖 Built an **AI Job Skill Analyzer**
-- 🌱 Currently improving my knowledge of **React, Node.js, Databases, System Design & DevOps**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 💡 Interested in building real-world products and solving practical problems
-
----
-
-## 🚀 Featured Projects
-
-### 🟢 Karviam
-
-**Local Short-Term Work Marketplace**
-
-Karviam connects people who need work done with nearby people looking for earning opportunities.
-
-Users can both:
-
-- Post work
-- Apply for jobs
-- Chat with users
-- Rate & review
-- Manage job applications
-
-🌐 **Live:** [karviam.in](https://karviam.in)
-
----
-
-### 🤖 AI Job Skill Analyzer
-
-An AI-powered application that analyzes job descriptions and helps users understand:
-
-- Required skills
-- Missing skills
-- Skill matching
-- Job suitability
-
-🌐 **Live App:**  
-[AI Job Skill Analyzer](https://ai-job-skill-analyzer-wqzumg8xfcwiifstaejwtu.streamlit.app/)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ashwinkumar928&show_icons=true&hide_border=true"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinkumar928&layout=compact&hide_border=true"
-    height="165"
-  />
+Computer Science & Engineering student at <b>KIIT University</b> interested in
+full-stack development and building real-world products.
+Currently working on <b>Karviam</b>, a local short-term work marketplace.
 </p>
 
----
+<br>
 
-## 🔥 GitHub Streak
+<!-- ==================== TECH STACK ==================== -->
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=ashwinkumar928"/>
+<h3>⚡ Tech Stack</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,vite,nodejs,express,postgres,supabase,git,github,vscode,vercel&perline=15" height="34"/>
 </p>
 
----
+<br>
 
-## 📈 Contribution Graph
+<!-- ==================== PROJECTS ==================== -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinkumar928&hide_border=true"/>
+<h3>🚀 Projects</h3>
 
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/ashwinkumar928">
-<img src="https://img.shields.io/badge/GitHub-ashwinkumar928-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashwin-kumar-7b4632344/">
-<img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
+<p>
+  <b>Karviam</b> — Local short-term work marketplace
+  &nbsp;•&nbsp;
+  <a href="https://karviam.in">Live ↗</a>
 </p>
 
----
+<p>
+  <b>AI Job Skill Analyzer</b> — AI-powered job and skill analysis tool
+  &nbsp;•&nbsp;
+  <a href="https://ai-job-skill-analyzer-wqzumg8xfcwiifstaejwtu.streamlit.app/">Live ↗</a>
+</p>
 
-<p align="center">
-⭐ <b>Building. Learning. Improving.</b>
+<br>
+
+<!-- ==================== CONNECT ==================== -->
+
+<h3>🤝 Connect</h3>
+
+<p>
+  <a href="https://github.com/ashwinkumar928">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ashwin-kumar-7b4632344/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://ashwin03-portfolio.vercel.app">Portfolio</a>
 </p>
