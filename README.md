@@ -21,9 +21,9 @@ B.Tech CSE Student | Full Stack Developer | Problem Solver
 </p>
 
 <p align="center">
-Computer Science & Engineering student at <b>KIIT University</b> interested in
-full-stack development and building real-world products.
-Currently working on <b>Karviam</b>, a local short-term work marketplace.
+Computer Science & Engineering student at <b>KIIT University</b>,
+interested in full-stack development, AI-based applications,
+and building real-world products.
 </p>
 
 <br>
@@ -33,7 +33,7 @@ Currently working on <b>Karviam</b>, a local short-term work marketplace.
 <h3>⚡ Tech Stack</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,vite,nodejs,express,postgres,supabase,git,github,vscode,vercel&perline=15" height="34"/>
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,vite,nodejs,express,mongodb,postgres,supabase,git,github,vscode,vercel&perline=16" height="34"/>
 </p>
 
 <br>
@@ -46,6 +46,12 @@ Currently working on <b>Karviam</b>, a local short-term work marketplace.
   <b>Karviam</b> — Local short-term work marketplace
   &nbsp;•&nbsp;
   <a href="https://karviam.in">Live ↗</a>
+</p>
+
+<p>
+  <b>DevRooms</b> — AI-powered developer collaboration platform with communities, authentication and programming assistance
+  &nbsp;•&nbsp;
+  <a href="https://devrooms-chatbot.vercel.app">Live ↗</a>
 </p>
 
 <p>
