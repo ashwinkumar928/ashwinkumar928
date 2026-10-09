@@ -28,102 +28,100 @@ and building real-world products.
 
 <br>
 
-<!-- ==================== TECH STACK ==================== -->
 
-    <!-- ==================== TECH STACK ==================== -->
+<!-- ==================== TECH STACK ==================== -->
 
 <h3>⚡ Tech Stack</h3>
 
 <table>
 <tr>
 
-<td align="center" width="70">
-<img src="https://skillicons.dev/icons?i=java" width="38"/><br>
-<sub><b>Java</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=java" width="42"/><br><br>
+  <b>Java</b>
 </td>
 
-<td align="center" width="70">
-<img src="https://skillicons.dev/icons?i=js" width="38"/><br>
-<sub><b>JavaScript</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=js" width="42"/><br><br>
+  <b>JavaScript</b>
 </td>
 
-<td align="center" width="70">
-<img src="https://skillicons.dev/icons?i=py" width="38"/><br>
-<sub><b>Python</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=py" width="42"/><br><br>
+  <b>Python</b>
 </td>
 
-<td align="center" width="70">
-<img src="https://skillicons.dev/icons?i=html" width="38"/><br>
-<sub><b>HTML</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=html" width="42"/><br><br>
+  <b>HTML</b>
 </td>
 
-<td align="center" width="70">
-<img src="https://skillicons.dev/icons?i=css" width="38"/><br>
-<sub><b>CSS</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=css" width="42"/><br><br>
+  <b>CSS</b>
 </td>
 
-<td align="center" width="70">
-<img src="https://skillicons.dev/icons?i=react" width="38"/><br>
-<sub><b>React</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=react" width="42"/><br><br>
+  <b>React</b>
 </td>
 
-<td align="center" width="70">
-<img src="https://skillicons.dev/icons?i=vite" width="38"/><br>
-<sub><b>Vite</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=vite" width="42"/><br><br>
+  <b>Vite</b>
 </td>
 
-<td align="center" width="70">
-<img src="https://skillicons.dev/icons?i=nodejs" width="38"/><br>
-<sub><b>Node.js</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br><br>
+  <b>Node.js</b>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="38"/><br>
-<sub><b>Express</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=express" width="42"/><br><br>
+  <b>Express</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="38"/><br>
-<sub><b>MongoDB</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="42"/><br><br>
+  <b>MongoDB</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="38"/><br>
-<sub><b>PostgreSQL</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=postgres" width="42"/><br><br>
+  <b>PostgreSQL</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=supabase" width="38"/><br>
-<sub><b>Supabase</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=supabase" width="42"/><br><br>
+  <b>Supabase</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="38"/><br>
-<sub><b>Git</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=git" width="42"/><br><br>
+  <b>Git</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="38"/><br>
-<sub><b>GitHub</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=github" width="42"/><br><br>
+  <b>GitHub</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="38"/><br>
-<sub><b>VS Code</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=vscode" width="42"/><br><br>
+  <b>VS Code</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="38"/><br>
-<sub><b>Vercel</b></sub>
+<td align="center" width="90" height="120">
+  <img src="https://skillicons.dev/icons?i=vercel" width="42"/><br><br>
+  <b>Vercel</b>
 </td>
 
 </tr>
 </table>
-
 
 <!-- ==================== PROJECTS ==================== -->
 
