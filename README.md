@@ -30,35 +30,100 @@ and building real-world products.
 
 <!-- ==================== TECH STACK ==================== -->
 
+    <!-- ==================== TECH STACK ==================== -->
+
 <h3>⚡ Tech Stack</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<table>
+<tr>
 
-  <br><br>
+<td align="center" width="70">
+<img src="https://skillicons.dev/icons?i=java" width="38"/><br>
+<sub><b>Java</b></sub>
+</td>
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<td align="center" width="70">
+<img src="https://skillicons.dev/icons?i=js" width="38"/><br>
+<sub><b>JavaScript</b></sub>
+</td>
 
-  <br><br>
+<td align="center" width="70">
+<img src="https://skillicons.dev/icons?i=py" width="38"/><br>
+<sub><b>Python</b></sub>
+</td>
 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<td align="center" width="70">
+<img src="https://skillicons.dev/icons?i=html" width="38"/><br>
+<sub><b>HTML</b></sub>
+</td>
 
-  <br><br>
+<td align="center" width="70">
+<img src="https://skillicons.dev/icons?i=css" width="38"/><br>
+<sub><b>CSS</b></sub>
+</td>
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<td align="center" width="70">
+<img src="https://skillicons.dev/icons?i=react" width="38"/><br>
+<sub><b>React</b></sub>
+</td>
+
+<td align="center" width="70">
+<img src="https://skillicons.dev/icons?i=vite" width="38"/><br>
+<sub><b>Vite</b></sub>
+</td>
+
+<td align="center" width="70">
+<img src="https://skillicons.dev/icons?i=nodejs" width="38"/><br>
+<sub><b>Node.js</b></sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="38"/><br>
+<sub><b>Express</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="38"/><br>
+<sub><b>MongoDB</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="38"/><br>
+<sub><b>PostgreSQL</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=supabase" width="38"/><br>
+<sub><b>Supabase</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="38"/><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="38"/><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="38"/><br>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="38"/><br>
+<sub><b>Vercel</b></sub>
+</td>
+
+</tr>
+</table>
+
 
 <!-- ==================== PROJECTS ==================== -->
 
