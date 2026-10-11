@@ -140,6 +140,12 @@ and building real-world products.
 </p>
 
 <p>
+  <b>SmartRec</b> — Personalized recommendation system based on user activity such as searches, product views and cart actions
+  &nbsp;•&nbsp;
+  <a href="https://github.com/ashwinkumar928/SmartRec.git">GitHub ↗</a>
+</p>
+
+<p>
   <b>AI Job Skill Analyzer</b> — AI-powered job and skill analysis tool
   &nbsp;•&nbsp;
   <a href="https://ai-job-skill-analyzer-wqzumg8xfcwiifstaejwtu.streamlit.app/">Live ↗</a>
