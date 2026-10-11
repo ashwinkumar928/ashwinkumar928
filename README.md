@@ -1,6 +1,6 @@
 <!-- ==================== Intro ==================== -->
 
-<h1 align="center">Hi 👋 I'm Ashwin Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ashwin Kumar</h1>
 
 <h3 align="center">
 B.Tech CSE Student | Full Stack Developer | Problem Solver
