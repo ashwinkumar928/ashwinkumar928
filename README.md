@@ -163,5 +163,4 @@ and building real-world products.
   <a href="https://www.linkedin.com/in/ashwin-kumar-7b4632344/">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="https://ashwin03-portfolio.vercel.app">Portfolio</a>
-  <a href="https:/ashwinkumaryt9386@gmail.com">Gmail</a>
 </p>
