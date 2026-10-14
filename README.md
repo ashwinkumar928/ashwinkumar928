@@ -142,7 +142,7 @@ and building real-world products.
 <p>
   <b>SmartRec</b> — Personalized recommendation system based on user activity such as searches, product views and cart actions
   &nbsp;•&nbsp;
-  <a href="https://github.com/ashwinkumar928/SmartRec.git">GitHu ↗</a>
+  <a href="https://github.com/ashwinkumar928/SmartRec.git">GitHub ↗</a>
 </p>
 
 <p>
