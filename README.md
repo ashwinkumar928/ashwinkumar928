@@ -153,7 +153,7 @@ and building real-world products.
 
 <br>
 
-<!- ==================== CONNECT ==================== ->
+<!-- ==================== CONNECT ==================== -->
 
 <h3>🤝 Connect</h3>
 
